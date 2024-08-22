@@ -7,6 +7,10 @@
 
 Les liens si dessous sont dans l'ordre de la vidéo.
 
-- Gta 5 Mods : [Clique pour accéder]()
-- Photopea : [Clique pour accéder]()
-- Canva : [Clique pour accéder]()
+- Gta 5 Mods : [Clique pour accéder](https://fr.gta5-mods.com/)
+- Photopea : [Clique pour accéder](https://www.photopea.com/)
+- Canva : [Clique pour accéder](https://www.canva.com/fr_fr/)
+
+
+## Copyright
+©2024 Just'iRox
